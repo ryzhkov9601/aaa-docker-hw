@@ -2,6 +2,7 @@ version: "3"
 
 services:
   server:
+    build: .
     image: server:0.0.1
     ports:
       - "8080:8080"
