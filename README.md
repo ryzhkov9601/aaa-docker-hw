@@ -1,3 +1,9 @@
+# Проверка задания
+
+```bash
+docker-compose up
+```
+
 # Homework
 Docker lecture repository at [Avito's Analytics Academy](https://avito-analytics-academy.ru/) Data Science course.
 
